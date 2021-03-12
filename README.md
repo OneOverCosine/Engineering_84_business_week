@@ -11,16 +11,15 @@ In my free time I like drawing (cats) and doing other creative things.
 ## 2. What is Agile, and what is the benefit of implementing it?
 Agile can be described as a mindset or an approach to project management. It revolves around having an iterative approach to project management and software development. An Agile team delivers work in small increments instead of all at once. This allows the team to be more flexible and ready to deal with the inevitable changes they are going to face during development. Through the/(this?) process, requirements and plans are coninually evaluated to teams can respond to change quickly.  
 
-## 3. Why did I choose Sparta?
-(Every new line is a chance to breathe)    
+## 3. Why did I choose Sparta?  
 I first heard about Sparta through codemas.  
 This was during lockdown and I was looking to improve my Java and Python skills.  
-codemas sounded interesting so I gave it a look. I ended up really liking how the instructor taught so I decided to look into Sparta
-One thing I noticed was the sense of community. I really liked the focus on supporting trainees (and beyond).
+codemas sounded interesting so I gave it a look. I ended up really liking how the instructor taught so I decided to look into Sparta  
+One thing I noticed was the sense of community. I really liked the focus on supporting trainees (and beyond).  
 That, to me, set Sparta apart from the others like them.  
 
 ## 4. What is Scrum and what is the benefit of implementing it?
-SCRUM is an Agile framework *not* a methodology. Scrum is meant to be simple.  
+Scrum is an Agile framework *not* a methodology. Scrum is meant to be simple.  
 It's built upon a series of sprints which which gives the team a chance to review work before proceeding.  
 Useful because everyone is involved in development. Has a high level of transparency and openness so problems get caught before they get far
 
