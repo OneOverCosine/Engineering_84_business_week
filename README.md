@@ -19,4 +19,10 @@ One thing I noticed was the sense of community. I really liked the focus on supp
 That, to me, set [REDACTED] apart from the others like them.  
 
 ## 4. What is Scrum and what is the benefit of implementing it?
-SCRUM is an Agile framework
+SCRUM is an Agile framework (researching)  
+
+## 5. Where do you see yourself in 2-5 years?
+test  
+
+## 6. What is DevOps and benefit of using it?
+testing  
