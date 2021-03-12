@@ -22,7 +22,7 @@ That, to me, set [REDACTED] apart from the others like them.
 SCRUM is an Agile framework (researching)  
 
 ## 5. Where do you see yourself in 2-5 years?
-test  
+(researching...)  
 
 ## 6. What is DevOps and benefit of using it?
 testing  
