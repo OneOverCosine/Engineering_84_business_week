@@ -25,7 +25,7 @@ It's built upon a series of sprints which which gives the team a chance to revie
 Useful because everyone is involved in development. Has a high level of transparency and openness so problems get caught before they get far
 
 ## 5. Where do you see yourself in 2-5 years?
-DevOps architect...  
+At the end of my two years at Sparta I hope to move on to join the company I'm working with as a DevOps consultant if I like it there. If not, I'll likely stay on with Sparta and keep developing my skills with them. I'd like to work towards being on the more technical side of the role as a Senior DevOps engineer.
 
 ## 6. What is DevOps and benefit of using it?
 A combination of Development and Operations. Bringing two teams together so that they can work better together and streamline the process of development. 
