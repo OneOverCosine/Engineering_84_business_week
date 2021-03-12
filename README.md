@@ -20,10 +20,12 @@ One thing I noticed was the sense of community. I really liked the focus on supp
 That, to me, set Sparta apart from the others like them.  
 
 ## 4. What is Scrum and what is the benefit of implementing it?
-SCRUM is an Agile framework *not* a methodology.  
+SCRUM is an Agile framework *not* a methodology. Scrum is meant to be simple.  
+It's built upon a series of sprints which which gives the team a chance to review work before proceeding.  
+Useful because everyone is involved in development. Has a high level of transparency and openness so problems get caught before they get far
 
 ## 5. Where do you see yourself in 2-5 years?
-(researching...)  
+DevOps architect...  
 
 ## 6. What is DevOps and benefit of using it?
-A combination of Development and Operations. Bringing two teams together so that they can work better together and streamline the process of development. Scrum is meant to be simple  
+A combination of Development and Operations. Bringing two teams together so that they can work better together and streamline the process of development. 
