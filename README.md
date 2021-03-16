@@ -35,3 +35,13 @@ A combination of Development and Operations.
 - With DevOps there's better communication between the teams
 
 ## SQL Week
+
+### 1. What is SQL and why is it used?
+- It's a query language used for writing queries to create schema, store, manipulate, and retireve data from relational databases
+- (in progress)
+
+### 2. What are the sub-languages of SQL?
+- DML, which is Data Manipulation language. This allows the user to access and modify data and some of the commands are SELECT, INSERT, UPDATE, and DELETE
+- DDL, Data Definition Language. This is the schema creation aspect. These queries allow one to set up the structure of the data. Some commands are CREATE, DROP, ALTER, and TRUNCATE
+- DCL, Data Control Language. Used to control access to data in the database. Some common commands: GRANT, REVOKE
+- TCL, Tansactiona Control Language. Handles transactions in the database. Some commands: COMMIT, ROLLBACK, SAVEPOINT
