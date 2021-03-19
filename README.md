@@ -47,8 +47,13 @@ A combination of Development and Operations.
 - TCL, Tansactiona Control Language. Handles transactions in the database. Some commands: COMMIT, ROLLBACK, SAVEPOINT
 
 ### 3. What is a join?
+- A join is used to, well, join tables together (connect them).
+- Joins are based on keys that both tables contain
 
 ### 4. Explain what primary and foreign keys are.
+- Keys are used to identify rows in a table.
+- Primary keys must be unique and cannot be *Null* while Foreign keys can be non-unique and *Null*
+- Foreign keys are the primary keys from other tables
 
 ### 5. What is Normalisation?
 
