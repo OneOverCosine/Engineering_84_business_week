@@ -45,3 +45,11 @@ A combination of Development and Operations.
 - DDL, Data Definition Language. This is the schema creation aspect. These queries allow one to set up the structure of the data. Some commands are CREATE, DROP, ALTER, and TRUNCATE
 - DCL, Data Control Language. Used to control access to data in the database. Some common commands: GRANT, REVOKE
 - TCL, Tansactiona Control Language. Handles transactions in the database. Some commands: COMMIT, ROLLBACK, SAVEPOINT
+
+### 3. What is a join?
+
+### 4. Explain what primary and foreign keys are.
+
+### 5. What is Normalisation?
+
+### 6. Handling Entity Relationship Diagrams
