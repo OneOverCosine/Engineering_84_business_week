@@ -37,8 +37,17 @@ A combination of Development and Operations.
 ## SQL Week
 
 ### 1. What is SQL and why is it used?
-- It's a query language used for writing queries to create schema, store, manipulate, and retireve data from relational databases
-- (in progress)
+- It stands for 'Structured Query Language'
+- It's a query language that's used to create schema, store, manipulate, and retireve data from relational databases
+- Unlike programming languages (think Python or Java) users of SQL are only concerned with what they're doing. The 'how' is unimportant
+- An example of the above is writing a query to display the full name of all employees with first names beginning with 'A'. In SQL, you'd do something like this:
+
+``` SQL
+SELECT firstname, lastname
+FROM Employees
+WHERE firstname LIKE 'A%';
+```
+And you would get a table as a result. The user doesn't need to think about how the results are retrieved. All they need to know is *what* to do to get the results they want.
 
 ### 2. What are the sub-languages of SQL?
 - DML, which is Data Manipulation language. This allows the user to access and modify data and some of the commands are SELECT, INSERT, UPDATE, and DELETE
@@ -56,5 +65,9 @@ A combination of Development and Operations.
 - Foreign keys are the primary keys from other tables
 
 ### 5. What is Normalisation?
+The process of organising data in databases to:
+- reduce redundancy
+- reduce the chance of insertion, upadate, and deletion anomalies (unexpected behaviour) 
 
 ### 6. Handling Entity Relationship Diagrams
+**What are ERD's used for?**  
