@@ -82,6 +82,10 @@ Git is a version control system
 ### What is GitHub, and what are its benefits?
 GitHub is an online repository, which uses Git, that saves file in the cloud.
 
+### What is Git Bash?
+It's an application for Windows which provides an emulation layer for the Git command line.
+It allows Windows users to use a command line for Git
+
 ![image](https://user-images.githubusercontent.com/18092824/111987743-7cd07400-8b07-11eb-8061-2cf01fb9a0e7.png)
 
 ## Python Week (01)
