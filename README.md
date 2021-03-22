@@ -73,3 +73,5 @@ The process of organising data in databases to:
 **What are ERD's used for?**  
 - Used to represent relationships between tables in a database
 - a nice visual way to show how objects are linked
+
+## Python Week (01)
