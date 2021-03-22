@@ -74,4 +74,14 @@ The process of organising data in databases to:
 - Used to represent relationships between tables in a database
 - a nice visual way to show how objects are linked
 
+## (Git and GitHub)
+
+### What is Git?
+Git is a version control system
+
+### What is GitHub, and what are its benefits?
+GitHub is an online repository, which uses Git, that saves file in the cloud.
+
 ## Python Week (01)
+
+
