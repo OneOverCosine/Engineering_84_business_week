@@ -16,6 +16,7 @@ This is the
 
 ## Polymorphism
 The word itself means 'many forms'
+An example of polymorphism in Python is a function with the same name but different functionality.
 
 ## What are the benefits of OOP?
 
