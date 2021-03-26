@@ -1,4 +1,4 @@
-# Python Related Interview Qs [WIP]
+# Python Related Interview Qs
 
 ## What is OOP? Mention the pillars
 Object Oreinted Programming (OOP) is a programming standard base on the concept of 'objects'.  
@@ -26,5 +26,6 @@ For example:
 ``Cat`` is a class that has the value ``fur = True``. ``Sphinx`` (a breed of cat and therefore a child of the ``Cat`` class) would have ``fur = False``, as these cats are hairless.
 
 ## What are the benefits of OOP?
+Saves time and reduces the amount of code that needs to be written
 
 ## Best use case
