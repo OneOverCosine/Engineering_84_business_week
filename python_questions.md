@@ -18,7 +18,7 @@ Inheritance is a way to reuse code. Similar to inheritance in real life, (left o
 - An object can inherit attributes (which are an object's variables) and methods (the behaviour of an object)
 
 ## Encapsulation
-It is the 'bundling' of data
+It is the 'bundling' or binding of data. Consider a tablet. Everything you need for that medicine is contained within the tablet. It's this concept that we want to apply to programming. Encapsulation is about binding variables and functions together in a class. Everything you need get bundled together. You don't need to look elsewhere for what you need.
 
 ## Polymorphism
 The word itself means 'many forms'
