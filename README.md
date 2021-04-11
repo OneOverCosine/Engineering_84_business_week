@@ -88,6 +88,5 @@ It allows Windows users to use a command line for Git
 
 ![image](https://user-images.githubusercontent.com/18092824/111987743-7cd07400-8b07-11eb-8061-2cf01fb9a0e7.png)
 
-## Python Week (01)
-
-
+## Python Week (01-03)
+Refer to python file
