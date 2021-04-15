@@ -10,8 +10,8 @@ I also got to work with Java, Python, HTML + CSS + JavaScript...
 Came to like Computer Science through Maths --> Might have done Engineering, but I found I was better suited to Computer Science.  
 In my free time I like drawing (cats) and doing other creative things.
 
-### 2. What is Agile, and what is the benefit of implementing it?
-Agile can be described as a mindset or an approach to project management. It revolves around having an iterative approach to project management and software development. An Agile team delivers work in small increments instead of all at once. This allows the team to be more flexible and ready to deal with the inevitable changes they are going to face during development. Through the/(this?) process, requirements and plans are coninually evaluated to teams can respond to change quickly.  
+### 2. What is Agile, and what are the benefits of implementing it?
+Agile can be described as a mindset or an approach to project management. It revolves around having an iterative approach to project management and software development. An Agile team delivers work in small increments instead of all at once. This allows the team to be more flexible and ready to deal with the inevitable changes they are going to face during development. Through this process, requirements and plans are continually evaluated so teams can respond to change quickly.  
 
 ### 3. Why did I choose Sparta?  
 I first heard about Sparta through codemas.  
@@ -21,7 +21,7 @@ One thing I noticed was the sense of community. I really liked the focus on supp
 That, to me, set Sparta apart from the others like them.  
 
 ### 4. What is Scrum and what is the benefit of implementing it?
-Scrum is an Agile framework *not* a methodology. Scrum is meant to be simple.  
+Scrum is an Agile framework. It assists teams in putting the methodologie into practice. Scrum is meant to be simple.  
 It's built upon a series of sprints which which gives the team a chance to review work before proceeding.  
 Useful because everyone is involved in development. Has a high level of transparency and openness so problems get caught before they get far
 
@@ -90,3 +90,30 @@ It allows Windows users to use a command line for Git
 
 ## Python Week (01-03)
 Refer to python file
+
+## More misc. Questions
+Remember to include the benefits of a thing in the 'What is X?' questions
+
+### What is an API?
+API stands for application programming interface. (continue)
+
+### What is cloud computing?
+answer
+
+### What is OOP?
+OOP stands for object oriented programming. (continue)
+
+### (builds from above) What are the (four) pillars of OOP?
+Inheritance
+- points
+
+Abstraction
+- points
+
+Encapsulation
+- points
+
+Polymorphism
+- points
+
+### What are three skills needed to be a good DevOps consultant?
