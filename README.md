@@ -98,10 +98,24 @@ Remember to include the benefits of a thing in the 'What is X?' questions
 API stands for application programming interface. (continue)
 
 ### What is cloud computing?
-answer
+Cloud computing is the delivery of computing resources over the Internet. These services include compute power, database storage, applications and other IT resources.
+
+Here's why it's used:
+- It's very scalable
+- Cloud hosting is instant
+- Only pay for what you need - no equipment to maintain
+- More secure
+- More reliable
+
+**Types of cloud**
+- Private cloud (used by a single business)
+- Public cloud (owned and operated by third-party cloud service providers like Azure of AWS)
+- Hybrid cloud (combines the above)
 
 ### What is OOP?
-OOP stands for object oriented programming. (continue)
+OOP stands for object oriented programming. It's a programming style which is associated with the concept of classes and objects.
+
+Explain the OOP concepts using the class 
 
 ### (builds from above) What are the (four) pillars of OOP?
 Inheritance
