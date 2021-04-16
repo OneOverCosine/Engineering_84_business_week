@@ -115,7 +115,7 @@ Here's why it's used:
 ### What is OOP?
 OOP stands for object oriented programming. It's a programming style which is associated with the concept of classes and objects.
 
-Explain the OOP concepts using the class 
+Explain the OOP concepts using the plane terminal project.
 
 ### (builds from above) What are the (four) pillars of OOP?
 Inheritance
