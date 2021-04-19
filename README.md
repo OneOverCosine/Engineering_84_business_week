@@ -5,10 +5,11 @@
 
 ### 1. TMAY
 Hello, my name is Dunni and I graduated from Goldsmiths university with a degree in Computer Science.  
+Came to like Computer Science through Maths --> Might have done Engineering, but I found I was better suited to Computer Science. 
 During the course of my degree I got cover a variety of subjects, including Web dev and software projects.  
 I also got to work with Java, Python, HTML + CSS + JavaScript...  
-Came to like Computer Science through Maths --> Might have done Engineering, but I found I was better suited to Computer Science.  
 In my free time I like drawing (cats) and doing other creative things.
+
 
 ### 2. What is Agile, and what are the benefits of implementing it?
 Agile can be described as a mindset or an approach to project management. It revolves around having an iterative approach to project management and software development. An Agile team delivers work in small increments instead of all at once. This allows the team to be more flexible and ready to deal with the inevitable changes they are going to face during development. Through this process, requirements and plans are continually evaluated so teams can respond to change quickly.  
